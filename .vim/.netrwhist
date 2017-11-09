@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/lkasser/School/dropbox/lib/support/client'
+let g:netrw_dirhist_2='/home/lkasser/School/dropbox'
+let g:netrw_dirhist_3='/home/lkasser/School/dropbox/internal'
+let g:netrw_dirhist_4='/home/lkasser/School/dropbox'
+let g:netrw_dirhist_5='/home/lkasser/School/dropbox/server'
